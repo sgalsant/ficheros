@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "es6",
+      "sourceMap": true,
+      "allowJs": true,
+      "noImplicitAny": true,
+      "strict": true,
+      "allowSyntheticDefaultImports": true
+    },
+
+    "exclude": [
+      "node_modules",
+    ],
+}
